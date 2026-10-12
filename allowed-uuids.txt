@@ -1,0 +1,4 @@
+# Vexo Client approved Minecraft accounts
+# One UUID per line. Blank lines and # comments are supported.
+# Remove a UUID and commit to revoke access.
+8695680a-0a70-4bc8-86b4-5a48a33afc95 # Owner
