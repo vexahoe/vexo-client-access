@@ -3,3 +3,4 @@
 # Remove a UUID and commit to revoke access.
 8695680a-0a70-4bc8-86b4-5a48a33afc95 # 021203
 bcb4448c-3be2-445f-b6d8-89441852f989 # Zornado
+56791d4e-ae28-4f21-8bed-01445806c048 # EmperialEmber 30d
